@@ -1,0 +1,17 @@
+{
+    "name": "@todo/server",
+    "version": "1.0.0",
+    "description": "todo app server",
+    "main": "index.ts",
+    "author": "seungwoohong",
+    "license": "MIT",
+    "scripts": {
+        "dev": "ts-node index.ts"
+    },
+    "dependencies": {
+        "apollo-server": "^2.14.4"
+    },
+    "devDependencies": {
+        "ts-node": "^8.10.2"
+    }
+}

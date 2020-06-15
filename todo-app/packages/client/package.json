@@ -1,0 +1,9 @@
+{
+  "name": "@todo/client",
+  "version": "1.0.0",
+  "description": "todo app client",
+  "main": "index.ts",
+  "author": "seungwoohong",
+  "license": "MIT",
+  "devDependencies": {}
+}

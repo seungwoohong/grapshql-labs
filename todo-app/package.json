@@ -1,0 +1,19 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "index.ts",
+  "repository": "https://github.com/seungwoohong/graphql-labs",
+  "author": "seungwoohong",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "graphql": "^15.1.0",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.5"
+  }
+}
